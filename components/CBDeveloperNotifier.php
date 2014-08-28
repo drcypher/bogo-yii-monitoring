@@ -171,6 +171,7 @@ class CBDeveloperNotifier extends CApplicationComponent
 				'SERVER_NAME',
 //				'SERVER_PROTOCOL',
 				'REQUEST_METHOD',
+				'REQUEST_URI',
 				'REMOTE_ADDR',
 				'HTTP_REFERER'
 			);
